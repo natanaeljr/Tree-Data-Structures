@@ -1,0 +1,8 @@
+### Visual Studio Code
+.vscode/
+
+### Build System
+**/build/
+
+### Miscellaneous
+NOTES.md
